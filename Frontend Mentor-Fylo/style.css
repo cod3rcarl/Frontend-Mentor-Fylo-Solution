@@ -196,7 +196,7 @@ border-radius: 100%;
         width: 50%;
       }
 
-@media (max-width: 380px) {
+@media (max-width: 415px) {
 
     .image-box-1 {
         display: inline-block;
@@ -348,5 +348,7 @@ border-radius: 100%;
     
             margin: -12px 0 0 224px;
 
+
+}
 
 }
